@@ -1,0 +1,20 @@
+.header {
+    font-size: 40px;
+    color: white;
+    background-color: #75cea5;
+    min-height: 80px;
+}
+.button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    outline: none;
+    display: inline-block;
+    min-width: 120px;
+    background-color: #75cea5;
+    color: white;
+    transition: opacity 200ms ease-in-out, background 200ms ease-in-out;
+}
